@@ -1,0 +1,78 @@
+{
+    "name": "Soulsmith",
+    "background": "shattered_reality:textures/block/soul_anvil_side.png",
+    "icon": "shattered_reality:soul",
+    "energy_bars": {
+        "soul": {
+            "max": 2000,
+            "auto_increase_per_tick": 0,
+            "auto_increase_interval": 20,
+            "color": "#10EA9A"
+        },
+        "usable_soul": {
+            "max": 2000,
+            "auto_increase_per_tick": 0,
+            "auto_increase_interval": 20,
+            "color": "#10EAFF"
+        }
+    },
+    "abilities": {
+        "name": {
+            "type": "palladium:name_change",
+            "name": [
+                "",
+                {
+                    "text": "S",
+                    "color": "#0000FF",
+                    "bold": true
+                },
+                {
+                    "text": "o",
+                    "color": "#0020DF",
+                    "bold": true
+                },
+                {
+                    "text": "u",
+                    "color": "#0040BF",
+                    "bold": true
+                },
+                {
+                    "text": "l",
+                    "color": "#005F9F",
+                    "bold": true
+                },
+                {
+                    "text": "s",
+                    "color": "#007F7F",
+                    "bold": true
+                },
+                {
+                    "text": "m",
+                    "color": "#009F9F",
+                    "bold": true
+                },
+                {
+                    "text": "i",
+                    "color": "#00BFBF",
+                    "bold": true
+                },
+                {
+                    "text": "t",
+                    "color": "#00DFDF",
+                    "bold": true
+                },
+                {
+                    "text": "h",
+                    "color": "#00FFFF",
+                    "bold": true
+                }
+            ],
+            "hidden": true
+        },
+        "skin": {
+            "type": "palladium:skin_change",
+            "texture": "super_reality:textures/entity/player/soulsmith.png",
+            "hidden": true
+        }
+    }
+}
