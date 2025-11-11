@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "authors": ["Teal Wolf 25","Elegast Kelural"],
+    "environment": "*",
+    "name": "Super Reality",
+    "id": "super_reality",
+    "version": "1.0",
+    "description": "Shattered Reality Palladium resources",
+    "icon": "logo.png",
+    "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "id": "super_reality",
+    "description": "Shattered Reality Palladium resources",
+    "pack_format": 15,
+    "version": "1.0"
+  },
+  "dependencies": {
+    "common": {
+      "palladium": ">=4.3.1"
+    },
+    "fabric": {
+    },
+    "forge": {
+    }
+  }
+}
